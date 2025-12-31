@@ -1,0 +1,1579 @@
+.frame1920wlight-container1 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-frame1920wlight-elm {
+  width: 100%;
+  height: 1152px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-board-note-99090160.figma.site-white);
+}
+ 
+.frame1920wlight-thq-background-elm1 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 2046px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-board-note-99090160.figma.site-white);
+}
+ 
+.frame1920wlight-thq-main-elm {
+  top: 121px;
+  left: 0px;
+  width: 1920px;
+  height: 1501px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.frame1920wlight-thq-section-elm1 {
+  top: 348px;
+  left: 0px;
+  width: 1920px;
+  display: flex;
+  padding: 64px 208px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: var(--dl-color-board-note-99090160.figma.site-white);
+}
+ 
+.frame1920wlight-thq-container-elm10 {
+  gap: 32px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+}
+ 
+.frame1920wlight-thq-background-border-elm1 {
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(255, 104, 0, 1);
+  border-style: solid;
+  border-width: 4px 1px 1px;
+  border-radius: 14px;
+  flex-direction: column;
+  background-color: var(--dl-color-board-note-99090160.figma.site-white);
+}
+ 
+.frame1920wlight-thq-container-elm11 {
+  width: 478px;
+  height: 195px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.frame1920wlight-thq-svg-elm10 {
+  top: 24px;
+  left: 215px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+ 
+.frame1920wlight-thq-heading3-elm1 {
+  top: 88px;
+  left: 24px;
+  width: 430px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm10 {
+  color: var(--dl-color-board-note-99090160.figma.site-eden);
+  height: auto;
+  text-align: center;
+  line-height: 27px;
+}
+ 
+.frame1920wlight-thq-container-elm12 {
+  top: 123px;
+  left: 24px;
+  width: 430px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm11 {
+  color: var(--dl-color-board-note-99090160.figma.site-fiord);
+  height: auto;
+  text-align: center;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-background-border-elm2 {
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(240, 176, 0, 1);
+  border-style: solid;
+  border-width: 4px 1px 1px;
+  border-radius: 14px;
+  flex-direction: column;
+  background-color: var(--dl-color-board-note-99090160.figma.site-white);
+}
+ 
+.frame1920wlight-thq-container-elm13 {
+  width: 478px;
+  height: 195px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.frame1920wlight-thq-svg-elm11 {
+  top: 24px;
+  left: 215px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+ 
+.frame1920wlight-thq-heading3-elm2 {
+  top: 88px;
+  left: 24px;
+  width: 430px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm14 {
+  color: var(--dl-color-board-note-99090160.figma.site-eden);
+  height: auto;
+  text-align: center;
+  line-height: 27px;
+}
+ 
+.frame1920wlight-thq-container-elm14 {
+  top: 123px;
+  left: 24px;
+  width: 430px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm15 {
+  color: var(--dl-color-board-note-99090160.figma.site-fiord);
+  height: auto;
+  text-align: center;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-background-border-elm3 {
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(0, 184, 218, 1);
+  border-style: solid;
+  border-width: 4px 1px 1px;
+  border-radius: 14px;
+  flex-direction: column;
+  background-color: var(--dl-color-board-note-99090160.figma.site-white);
+}
+ 
+.frame1920wlight-thq-container-elm15 {
+  width: 478px;
+  height: 171px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.frame1920wlight-thq-svg-elm12 {
+  top: 24px;
+  left: 215px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+ 
+.frame1920wlight-thq-heading3-elm3 {
+  top: 88px;
+  left: 24px;
+  width: 430px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm18 {
+  color: var(--dl-color-board-note-99090160.figma.site-eden);
+  height: auto;
+  text-align: center;
+  line-height: 27px;
+}
+ 
+.frame1920wlight-thq-container-elm16 {
+  top: 123px;
+  left: 24px;
+  width: 430px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm19 {
+  color: var(--dl-color-board-note-99090160.figma.site-fiord);
+  height: auto;
+  text-align: center;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-section-elm2 {
+  top: 676px;
+  left: 0px;
+  width: 1920px;
+  display: flex;
+  padding: 64px 192px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: var(--dl-color-board-note-99090160.figma.site-catskillwhite);
+}
+ 
+.frame1920wlight-thq-container-elm17 {
+  gap: 48px;
+  display: flex;
+  padding: 0 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-container-elm18 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-heading2-elm1 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm20 {
+  color: var(--dl-color-board-note-99090160.figma.site-eden);
+  height: auto;
+  text-align: center;
+  line-height: 30px;
+}
+ 
+.frame1920wlight-thq-container-elm19 {
+  width: 672px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm21 {
+  color: var(--dl-color-board-note-99090160.figma.site-fiord);
+  height: auto;
+  text-align: center;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-container-elm20 {
+  gap: 8px;
+  width: 896px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-tablistmargin-elm {
+  height: 68px;
+  display: flex;
+  padding: 0 0 32px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-tablist-elm {
+  display: flex;
+  padding: 3px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 14px;
+  justify-content: center;
+  background-color: var(--dl-color-board-note-99090160.figma.site-athensgray);
+}
+ 
+.frame1920wlight-thq-tab-elm1 {
+  height: 29px;
+  display: flex;
+  padding: 4px 103.88999938964844px 4px 103.87999725341797px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 14px;
+  justify-content: center;
+  background-color: var(--dl-color-board-note-99090160.figma.site-white);
+}
+ 
+.frame1920wlight-thq-text-elm24 {
+  color: var(--dl-color-board-note-99090160.figma.site-codgray);
+  height: auto;
+  text-align: center;
+  line-height: 20px;
+}
+ 
+.frame1920wlight-thq-tab-elm2 {
+  height: 29px;
+  display: flex;
+  padding: 4px 108.51000213623047px 4px 108.5px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 14px;
+  justify-content: center;
+}
+ 
+.frame1920wlight-thq-text-elm25 {
+  color: var(--dl-color-board-note-99090160.figma.site-codgray);
+  height: auto;
+  text-align: center;
+  line-height: 20px;
+}
+ 
+.frame1920wlight-thq-tab-elm3 {
+  height: 29px;
+  display: flex;
+  padding: 4px 111.61000061035156px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 0);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 14px;
+  justify-content: center;
+}
+ 
+.frame1920wlight-thq-text-elm26 {
+  color: var(--dl-color-board-note-99090160.figma.site-codgray);
+  height: auto;
+  text-align: center;
+  line-height: 20px;
+}
+ 
+.frame1920wlight-thq-tabpanel-elm {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(0, 0, 0, 0.10000000149011612);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 14px;
+  flex-direction: column;
+  background-color: var(--dl-color-board-note-99090160.figma.site-white);
+}
+ 
+.frame1920wlight-thq-container-elm21 {
+  gap: 24px;
+  width: 894px;
+  display: flex;
+  padding: 24px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-heading3-elm4 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm27 {
+  color: var(--dl-color-board-note-99090160.figma.site-eden);
+  height: auto;
+  text-align: center;
+  line-height: 27px;
+}
+ 
+.frame1920wlight-thq-container-elm22 {
+  width: 846px;
+  height: 104px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.frame1920wlight-thq-container-elm23 {
+  gap: 8px;
+  top: 0px;
+  left: 0px;
+  width: 415px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.frame1920wlight-thq-svg-elm13 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.frame1920wlight-thq-container-elm24 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm28 {
+  color: var(--dl-color-board-note-99090160.figma.site-codgray);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-container-elm25 {
+  gap: 8px;
+  top: 0px;
+  left: 431px;
+  width: 415px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.frame1920wlight-thq-svg-elm14 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.frame1920wlight-thq-container-elm26 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm29 {
+  color: var(--dl-color-board-note-99090160.figma.site-codgray);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-container-elm27 {
+  gap: 8px;
+  top: 40px;
+  left: 0px;
+  width: 415px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.frame1920wlight-thq-svg-elm15 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.frame1920wlight-thq-container-elm28 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm30 {
+  color: var(--dl-color-board-note-99090160.figma.site-codgray);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-container-elm29 {
+  gap: 8px;
+  top: 40px;
+  left: 431px;
+  width: 415px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.frame1920wlight-thq-svg-elm16 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.frame1920wlight-thq-container-elm30 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm31 {
+  color: var(--dl-color-board-note-99090160.figma.site-codgray);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-container-elm31 {
+  gap: 8px;
+  top: 80px;
+  left: 0px;
+  width: 415px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.frame1920wlight-thq-svg-elm17 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.frame1920wlight-thq-container-elm32 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm32 {
+  color: var(--dl-color-board-note-99090160.figma.site-codgray);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-container-elm33 {
+  gap: 8px;
+  top: 80px;
+  left: 431px;
+  width: 415px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.frame1920wlight-thq-svg-elm18 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.frame1920wlight-thq-container-elm34 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm33 {
+  color: var(--dl-color-board-note-99090160.figma.site-codgray);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-section-elm3 {
+  top: 1227px;
+  left: 0px;
+  width: 1920px;
+  display: flex;
+  padding: 64px 192px;
+  position: absolute;
+  background: linear-gradient(90deg, rgba(0, 146, 184, 1) 0%, rgba(21, 92, 251, 1) 100%);
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-container-elm35 {
+  gap: 16px;
+  display: flex;
+  padding: 0 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-heading2-elm2 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm34 {
+  color: var(--dl-color-board-note-99090160.figma.site-white);
+  height: auto;
+  text-align: center;
+  line-height: 30px;
+}
+ 
+.frame1920wlight-thq-container-elm36 {
+  display: flex;
+  opacity: 0.90;
+  padding: 0 0 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm35 {
+  color: var(--dl-color-board-note-99090160.figma.site-white);
+  height: auto;
+  text-align: center;
+  line-height: 28px;
+}
+ 
+.frame1920wlight-thq-link-elm10 {
+  display: flex;
+  padding: 10px 24px;
+  align-items: center;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: var(--dl-color-board-note-99090160.figma.site-blazeorange);
+}
+ 
+.frame1920wlight-thq-text-elm36 {
+  color: var(--dl-color-board-note-99090160.figma.site-white);
+  height: auto;
+  text-align: center;
+  line-height: 20px;
+}
+ 
+.frame1920wlight-thq-section-elm4 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  display: flex;
+  padding: 80px 576px;
+  overflow: hidden;
+  position: absolute;
+  background: linear-gradient(160deg, rgba(14, 22, 43, 1) 0%, rgba(27, 56, 142, 1) 50%, rgba(16, 78, 100, 1) 100%);
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-container-elm37 {
+  width: 1920px;
+  height: 348px;
+  display: flex;
+  opacity: 0.10;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.frame1920wlight-thq-background-blur-elm1 {
+  top: 0px;
+  left: 1536px;
+  width: 384px;
+  height: 384px;
+  position: absolute;
+  border-radius: 33554400px;
+}
+ 
+.frame1920wlight-thq-background-blur-elm2 {
+  top: -36px;
+  left: 0px;
+  width: 384px;
+  height: 384px;
+  position: absolute;
+  border-radius: 33554400px;
+}
+ 
+.frame1920wlight-thq-container-elm38 {
+  gap: 24px;
+  display: flex;
+  z-index: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-heading1-elm {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm37 {
+  color: var(--dl-color-board-note-99090160.figma.site-white);
+  height: auto;
+  text-align: center;
+  line-height: 36px;
+}
+ 
+.frame1920wlight-thq-container-elm39 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm38 {
+  color: var(--dl-color-board-note-99090160.figma.site-mystic);
+  height: auto;
+  text-align: center;
+  line-height: 28px;
+}
+ 
+.frame1920wlight-thq-container-elm40 {
+  gap: 16px;
+  display: flex;
+  padding: 8px 0 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+}
+ 
+.frame1920wlight-thq-link-elm11 {
+  height: 40px;
+  display: flex;
+  padding: 0 24px;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: var(--dl-color-board-note-99090160.figma.site-blazeorange);
+}
+ 
+.frame1920wlight-thq-text-elm41 {
+  color: var(--dl-color-board-note-99090160.figma.site-white);
+  height: auto;
+  text-align: center;
+  line-height: 20px;
+}
+ 
+.frame1920wlight-thq-link-elm12 {
+  gap: 8px;
+  height: 40px;
+  display: flex;
+  padding: 0 16px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: var(--dl-color-board-note-99090160.figma.site-white10);
+}
+ 
+.frame1920wlight-thq-sv-gmargin-elm1 {
+  width: 24px;
+  height: 16px;
+}
+ 
+.frame1920wlight-thq-text-elm42 {
+  color: var(--dl-color-board-note-99090160.figma.site-white);
+  height: auto;
+  text-align: center;
+  line-height: 20px;
+}
+ 
+.frame1920wlight-thq-footer-elm {
+  top: 1622px;
+  left: 0px;
+  width: 1920px;
+  display: flex;
+  padding: 0 192px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: var(--dl-color-board-note-99090160.figma.site-ebony);
+}
+ 
+.frame1920wlight-thq-container-elm41 {
+  gap: 32px;
+  display: flex;
+  padding: 48px 16px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-container-elm42 {
+  gap: 32px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+}
+ 
+.frame1920wlight-thq-container-elm43 {
+  gap: 16px;
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-heading3-elm5 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm43 {
+  color: var(--dl-color-board-note-99090160.figma.site-brightturquoise);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 27px;
+}
+ 
+.frame1920wlight-thq-container-elm44 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-container-elm45 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.frame1920wlight-thq-sv-gmargin-elm2 {
+  width: 20px;
+  height: 24px;
+}
+ 
+.frame1920wlight-thq-container-elm46 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-container-elm47 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm44 {
+  color: var(--dl-color-board-note-99090160.figma.site-balihai);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+ 
+.frame1920wlight-thq-text-elm45 {
+  color: var(--dl-color-board-note-99090160.figma.site-white);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-container-elm48 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.frame1920wlight-thq-sv-gmargin-elm3 {
+  width: 20px;
+  height: 24px;
+}
+ 
+.frame1920wlight-thq-container-elm49 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-container-elm50 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm46 {
+  color: var(--dl-color-board-note-99090160.figma.site-balihai);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+ 
+.frame1920wlight-thq-text-elm47 {
+  color: var(--dl-color-board-note-99090160.figma.site-white);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-container-elm51 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.frame1920wlight-thq-sv-gmargin-elm4 {
+  width: 20px;
+  height: 24px;
+}
+ 
+.frame1920wlight-thq-text-elm48 {
+  color: var(--dl-color-board-note-99090160.figma.site-white);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-container-elm52 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.frame1920wlight-thq-sv-gmargin-elm5 {
+  width: 20px;
+  height: 24px;
+}
+ 
+.frame1920wlight-thq-container-elm53 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm49 {
+  color: var(--dl-color-board-note-99090160.figma.site-white);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-container-elm54 {
+  gap: 16px;
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-heading3-elm6 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm52 {
+  color: var(--dl-color-board-note-99090160.figma.site-brightturquoise);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 27px;
+}
+ 
+.frame1920wlight-thq-list-elm {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-item-elm1 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm53 {
+  color: var(--dl-color-board-note-99090160.figma.site-botticelli);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-item-elm2 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm54 {
+  color: var(--dl-color-board-note-99090160.figma.site-botticelli);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-item-elm3 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm55 {
+  color: var(--dl-color-board-note-99090160.figma.site-botticelli);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-item-elm4 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm56 {
+  color: var(--dl-color-board-note-99090160.figma.site-botticelli);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-item-elm5 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm57 {
+  color: var(--dl-color-board-note-99090160.figma.site-botticelli);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-container-elm55 {
+  gap: 16px;
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-heading3-elm7 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm58 {
+  color: var(--dl-color-board-note-99090160.figma.site-brightturquoise);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 27px;
+}
+ 
+.frame1920wlight-thq-container-elm56 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm59 {
+  color: var(--dl-color-board-note-99090160.figma.site-botticelli);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-container-elm57 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm62 {
+  color: var(--dl-color-board-note-99090160.figma.site-balihai);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-horizontal-border-elm1 {
+  display: flex;
+  padding: 32px 0 0;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(49, 65, 87, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-container-elm58 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm63 {
+  color: var(--dl-color-board-note-99090160.figma.site-balihai);
+  height: auto;
+  text-align: center;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-header-elm {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  display: flex;
+  padding: 0 192px;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.10000000149011612) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: var(--dl-color-board-note-99090160.figma.site-ebony);
+}
+ 
+.frame1920wlight-thq-container-elm59 {
+  display: flex;
+  padding: 0 16px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-horizontal-border-elm2 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 0;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(49, 65, 87, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: flex-end;
+}
+ 
+.frame1920wlight-thq-svg-elm19 {
+  width: 16px;
+  height: 16px;
+}
+ 
+.frame1920wlight-thq-link-elm13 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm64 {
+  color: var(--dl-color-board-note-99090160.figma.site-white);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-container-elm60 {
+  gap: 825.5800170898438px;
+  display: flex;
+  padding: 16px 0;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.frame1920wlight-link1 {
+  display: contents;
+}
+ 
+.frame1920wlight-thq-link-elm14 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+ 
+.frame1920wlight-thq-background-elm2 {
+  display: flex;
+  padding: 8px 22.670000076293945px 8px 8px;
+  background: linear-gradient(90deg, rgba(255, 104, 0, 1) 0%, rgba(240, 176, 0, 1) 50%, rgba(0, 184, 218, 1) 100%);
+  align-items: flex-start;
+  border-radius: 10px;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-container-elm61 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-container-elm62 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm65 {
+  color: var(--dl-color-board-note-99090160.figma.site-white);
+  height: auto;
+  text-align: left;
+  line-height: 28px;
+}
+ 
+.frame1920wlight-thq-container-elm63 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm66 {
+  color: var(--dl-color-board-note-99090160.figma.site-balihai);
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
+ 
+.frame1920wlight-thq-nav-elm {
+  gap: 24px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.frame1920wlight-thq-link-elm15 {
+  height: 40px;
+  display: flex;
+  padding: 8px 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 4px;
+  flex-direction: column;
+  background-color: var(--dl-color-board-note-99090160.figma.site-cerulean);
+}
+ 
+.frame1920wlight-thq-text-elm67 {
+  color: var(--dl-color-board-note-99090160.figma.site-white);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-link-elm16 {
+  height: 40px;
+  display: flex;
+  padding: 8px 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 4px;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm68 {
+  color: var(--dl-color-board-note-99090160.figma.site-white);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-link-elm17 {
+  height: 40px;
+  display: flex;
+  padding: 8px 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 4px;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm69 {
+  color: var(--dl-color-board-note-99090160.figma.site-white);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-link-elm18 {
+  height: 40px;
+  display: flex;
+  padding: 8px 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 4px;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm70 {
+  color: var(--dl-color-board-note-99090160.figma.site-white);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-link-elm19 {
+  height: 40px;
+  display: flex;
+  padding: 8px 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 4px;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm71 {
+  color: var(--dl-color-board-note-99090160.figma.site-white);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.frame1920wlight-thq-background-shadow-elm {
+  gap: 8px;
+  top: 1140px;
+  left: 1551.22998046875px;
+  width: 334px;
+  height: 40px;
+  display: flex;
+  padding: 0 0 0 8px;
+  position: absolute;
+  box-shadow: 0px 0px 0.5px 0px rgba(0, 0, 0, 0.30000001192092896) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 13px;
+  background-color: var(--dl-color-board-note-99090160.figma.site-white);
+}
+ 
+.frame1920wlight-thq-container-elm64 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-svg-elm20 {
+  width: 24px;
+  height: 24px;
+}
+ 
+.frame1920wlight-thq-container-elm65 {
+  display: flex;
+  padding: 8px 4px;
+  align-items: center;
+}
+ 
+.frame1920wlight-thq-container-elm66 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-text-elm72 {
+  color: var(--dl-color-board-note-99090160.figma.site-black90);
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
+ 
+.frame1920wlight-thq-container-elm67 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  justify-content: flex-end;
+}
+ 
+.frame1920wlight-thq-linkmargin-elm {
+  display: flex;
+  padding: 0 8px 0 0;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1920wlight-thq-link-elm20 {
+  display: flex;
+  padding: 3px 8px;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 0.10000000149011612);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  background-color: var(--dl-color-board-note-99090160.figma.site-dodgerblue);
+}
+ 
+.frame1920wlight-thq-text-elm73 {
+  color: var(--dl-color-board-note-99090160.figma.site-white);
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
+ 
+.frame1920wlight-thq-vertical-border-elm1 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 0.10000000149011612);
+  border-style: solid;
+  border-width: 0 0 0 1px;
+}
+ 
+.frame1920wlight-thq-button-moreoptions-elm {
+  display: flex;
+  padding: 8px;
+  align-items: center;
+  border-radius: 4px;
+  justify-content: center;
+}
+ 
+.frame1920wlight-thq-svg-elm21 {
+  width: 24px;
+  height: 24px;
+}
+ 
+.frame1920wlight-thq-vertical-border-elm2 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 0.10000000149011612);
+  border-style: solid;
+  border-width: 0 0 0 1px;
+}
+ 
+.frame1920wlight-thq-button-close-elm {
+  display: flex;
+  padding: 8px;
+  align-items: center;
+  border-radius: 4px;
+  justify-content: center;
+}
+ 
+.frame1920wlight-thq-svg-elm22 {
+  width: 24px;
+  height: 24px;
+}
+ 
+.frame1920wlight-link2 {
+  display: contents;
+}
+ 
+.frame1920wlight-container2 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
+}
+ 
+.frame1920wlight-icon1 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.frame1920wlight-text7 {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
